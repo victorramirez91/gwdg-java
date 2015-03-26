@@ -1,0 +1,1 @@
+Basic Java implementation of the Google Wallet for digital goods API
